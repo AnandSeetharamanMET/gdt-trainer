@@ -9,13 +9,10 @@ Built by [Anand Seetharaman](https://anandseetharamanmet.github.io) (BS Mechanic
 ## Learning journal
 I built this with zero prior coding experience, learning as I went. Follow along in the [journal](journal/README.md).
 
-## Roadmap
-Tracked as [GitHub milestones](https://github.com/AnandSeetharamanMET/gdt-trainer/milestones).
-- [ ] M1: HTML basics + first page (Oct 23)
-- [ ] M2: True position visualizer (Oct 30)
-- [ ] M3: MMC bonus tolerance (Nov 6)
-- [ ] M4: Practice problems (Nov 13)
-- [ ] M5: Datum shift + polish (Nov 20)
+## Milestones
+A record of each thing I've learned and built, added as I reach it.
+
+_None yet. First one coming soon._
 
 ## License
 MIT
