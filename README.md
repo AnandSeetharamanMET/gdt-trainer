@@ -6,6 +6,9 @@ Built by [Anand Seetharaman](https://anandseetharamanmet.github.io) (BS Mechanic
 
 **Live site:** https://anandseetharamanmet.github.io/gdt-trainer/
 
+## Learning journal
+I built this with zero prior coding experience, learning as I went. Follow along in the [journal](journal/README.md).
+
 ## Roadmap
 - [ ] True position tolerance zone visualizer
 - [ ] MMC bonus tolerance
